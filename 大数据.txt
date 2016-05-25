@@ -1,0 +1,14 @@
+下面是我整理的scala和spark的视频在百度网盘的链接，希望能够帮助到你：
+1，《Scala深入浅出实战经典》http://pan.baidu.com/s/1pJnAUr5 
+2，《Spark纯实战公益大讲坛》http://pan.baidu.com/s/1sLeVk
+3，《Docker公益大讲坛》http://pan.baidu.com/s/1hq0GztU 
+4，《spark亚太研究院spark公益大讲堂》http://pan.baidu.com/s/1i30Ewsd 5， DT大数据梦工厂spark和scala的所有视频、PPT和代码在百度云盘的链接:http://pan.baidu.com/share/home?uk=4013289088#category/type=0&qq-pf-to=pcqq.group
+
+
+
+
+Storm流计算从入门到精通之技术篇(高并发策略、批处理事务、Trident精解、运维监控、企业场景)
+百度网盘下载：链接：http://pan.baidu.com/s/1hqrRvSC 密码：s26h
+
+Storm流计算之项目篇(Storm+Kafka+HBase+Highcharts+JQuery，含3个完整实际项目)
+百度网盘下载：链接：http://pan.baidu.com/s/1dDi4iYH 密码：bzvp
